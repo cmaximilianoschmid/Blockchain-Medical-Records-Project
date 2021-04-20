@@ -1,5 +1,5 @@
 # Blockchain-Medical-Records-Project
-This is a Project to explore how medical record keeping could work on the Ethereum Blockchain.
+This is a project to explore how medical record keeping could work on the Ethereum Blockchain.
 
 # Description and functionalities
 Users can keep track of their medical records on chain, not depending on a single entity and making their data accessable to the parties they allow. Ideally, access to medical data should be convenient while keeping things as private as possible for the users. For now only a back end contract prototype was developed and a front end is to be done.
